@@ -32,7 +32,7 @@ SECRET_KEY = 'django-insecure-5^9c9x#oc=41y&hy8#qp(xt*i7ekwsw!60j7u0pkp8zwihi+u-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["shopcart-api-1hlx.onrender.com", "localhost", "127.0.0.1"]
+ALLOWED_HOSTS = ["shopcart-api-uuxe.onrender.com", "localhost", "127.0.0.1"]
 
 
 # Application definition
